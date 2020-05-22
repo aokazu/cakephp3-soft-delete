@@ -1,5 +1,5 @@
 {
-    "name": "aokazu/cakephp4-soft-delete",
+    "name": "aokazu/cakephp3-soft-delete",
     "description": "SoftDelete plugin for CakePHP",
     "keywords": ["cakephp", "cakephp 4", "plugin", "soft", "delete", "deletable"],
     "homepage": "https://github.com/aokazu/cakephp4-soft-delete",
